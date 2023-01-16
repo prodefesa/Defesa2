@@ -601,9 +601,6 @@
     <loc>https://prodefesa.netlify.app/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/author/charles-souza/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://prodefesa.netlify.app/tag/current/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -613,19 +610,10 @@
     <loc>https://prodefesa.netlify.app/linha/desenvolvimento/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/author/gilberto-mohr-correa/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://prodefesa.netlify.app/author/josiane-francelino/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/author/ligia-urbina/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://prodefesa.netlify.app/tour/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://prodefesa.netlify.app/author/thiago-caliari/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
