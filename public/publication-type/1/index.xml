@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>1 | Defesa</title>
+    <title>1 | Pró-Defesa</title>
     <link>https://prodefesa.netlify.app/publication-type/1/</link>
       <atom:link href="https://prodefesa.netlify.app/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://prodefesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
+      <url>https://prodefesa.netlify.app/media/icon_hu3cfb72ddf7bcd7295159812022a52aa5_104306_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://prodefesa.netlify.app/publication-type/1/</link>
     </image>
@@ -50,20 +50,6 @@ h3,h4,h5,h6{
 
 &lt;/style&gt;
 &lt;p&gt;Acesse &lt;a href=&#34;https://www.sige.ita.br/edicoes-anteriores/2020/st/ST_02_3.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;SIGE 2020&lt;/a&gt; para mais informações.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>An example conference paper</title>
-      <link>https://prodefesa.netlify.app/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://prodefesa.netlify.app/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     

@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://prodefesa.netlify.app/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://prodefesa.netlify.app/linha/slider/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://prodefesa.netlify.app/event/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://prodefesa.netlify.app/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -430,10 +433,6 @@
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/midia/2020-12-01-r-rmarkdown/</loc>
-    <lastmod>2020-12-01T21:13:14-05:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://prodefesa.netlify.app/post/2020-12-01-r-rmarkdown/</loc>
     <lastmod>2020-12-01T21:13:14-05:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -506,7 +505,7 @@
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/project/midia/internal-project/</loc>
+    <loc>https://prodefesa.netlify.app/midia/internal-project/</loc>
     <lastmod>2020-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -554,7 +553,7 @@
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/project/midia/external-project/</loc>
+    <loc>https://prodefesa.netlify.app/midia/external-project/</loc>
     <lastmod>2020-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -582,18 +581,6 @@
     <lastmod>2020-01-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://prodefesa.netlify.app/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://prodefesa.netlify.app/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://prodefesa.netlify.app/author/francisco-eduardo-alves-de-almeida/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -602,28 +589,28 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://prodefesa.netlify.app/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://prodefesa.netlify.app/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://prodefesa.netlify.app/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://prodefesa.netlify.app/admin/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://prodefesa.netlify.app/contact/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://prodefesa.netlify.app/linha/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://prodefesa.netlify.app/people/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://prodefesa.netlify.app/author/charles-souza/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://prodefesa.netlify.app/tag/current/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://prodefesa.netlify.app/linha/defesa/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://prodefesa.netlify.app/linha/desenvolvimento/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://prodefesa.netlify.app/author/gilberto-mohr-correa/</loc>
@@ -633,9 +620,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://prodefesa.netlify.app/author/ligia-urbina/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://prodefesa.netlify.app/linha/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://prodefesa.netlify.app/tour/</loc>

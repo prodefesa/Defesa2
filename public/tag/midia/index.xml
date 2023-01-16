@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>midia | Defesa</title>
+    <title>mídia | Pró-Defesa</title>
     <link>https://prodefesa.netlify.app/tag/midia/</link>
       <atom:link href="https://prodefesa.netlify.app/tag/midia/index.xml" rel="self" type="application/rss+xml" />
-    <description>midia</description>
+    <description>mídia</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>pt-br</language><lastBuildDate>Wed, 04 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://prodefesa.netlify.app/media/logo_hu6d39704239ce57f55a6383f419f1d043_105170_300x300_fit_lanczos_3.png</url>
-      <title>midia</title>
+      <url>https://prodefesa.netlify.app/media/icon_hu3cfb72ddf7bcd7295159812022a52aa5_104306_512x512_fill_lanczos_center_3.png</url>
+      <title>mídia</title>
       <link>https://prodefesa.netlify.app/tag/midia/</link>
     </image>
     
@@ -125,9 +125,9 @@ Figure 1: A fancy pie chart.
     
     <item>
       <title>Participação do pesquisador no programa X</title>
-      <link>https://prodefesa.netlify.app/project/midia/internal-project/</link>
+      <link>https://prodefesa.netlify.app/midia/internal-project/</link>
       <pubDate>Sun, 27 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://prodefesa.netlify.app/project/midia/internal-project/</guid>
+      <guid>https://prodefesa.netlify.app/midia/internal-project/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;
 body {text-align: justify},
 td {
@@ -156,9 +156,9 @@ h3,h4,h5,h6{
     
     <item>
       <title>Entrevista do professor Marcos Barbieri para o jornalista Fausto Oliveira</title>
-      <link>https://prodefesa.netlify.app/project/midia/external-project/</link>
+      <link>https://prodefesa.netlify.app/midia/external-project/</link>
       <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://prodefesa.netlify.app/project/midia/external-project/</guid>
+      <guid>https://prodefesa.netlify.app/midia/external-project/</guid>
       <description>
 &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
   &lt;iframe src=&#34;https://www.youtube.com/embed/qXiClSyw1KM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
